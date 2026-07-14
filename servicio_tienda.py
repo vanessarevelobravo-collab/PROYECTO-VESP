@@ -1,5 +1,6 @@
 # Integrantes:
-# - CHINGA AYORA MICHELLE
+# - REVELO BRAVO GENESIS VANESSA 
+# - VAQUE REYES DANIELA DESIREE
 
 class ServicioTienda:
     """Superclase base para todos los servicios de la tienda online."""
