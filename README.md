@@ -6,8 +6,8 @@
 
 
 # Integrantes:
-# - Revelo Bravo Genesis
-# - Vaque Reyes Daniela
+* Revelo Bravo Genesis
+* Vaque Reyes Daniela
 
 
 # Descripción General del Sistema
