@@ -1,5 +1,7 @@
 
-# - CHINGA AYORA MICHELLE
+# - REVELO BRAVO GENESIS VANESSA 
+# - VAQUE REYES DANIELA DESIREE
+
 class ClienteOnline:
     """Representa un cliente registrado en la tienda online."""
 
